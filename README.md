@@ -116,5 +116,5 @@ Based on the analysis, the recommended marketing campaign is Campaign 1. Althoug
 
 ## Contact
 
-LinkedIn - [Agnė Vabalaitė](www.linkedin.com/in/agnė-vabalaitė).
+LinkedIn - [Agnė Vabalaitė](https://www.linkedin.com/in/agne-vabalaite).
 Gmail - vab.agne@gmail.com
